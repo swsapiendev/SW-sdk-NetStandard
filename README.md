@@ -35,7 +35,7 @@ Instalar la librería a traves Package Manager Console nuget.org
     Install-Package SW-sdk-netstandard
 ```
 
-En caso de no utilizar Package Manager Console puedes descargar la librería directamente a través del siguiente [link](https://github.com/lunasoft/SW-sdk-NetStandard/releases) y agregarla como Referencia local a tu proyecto. Asegurate de utilizar la última versión publicada.
+En caso de no utilizar Package Manager Console puedes descargar la librería directamente a través del siguiente [link](https://github.com/swsapiendev/SW-sdk-NetStandard/releases) y agregarla como Referencia local a tu proyecto. Asegurate de utilizar la última versión publicada.
 
 ---
 ### Implementación
